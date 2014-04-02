@@ -1,0 +1,113 @@
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;
+	list-style-type:none;
+	text-decoration:none;
+}
+	
+
+.nav{
+	height:35px;
+	width:100%;
+	margin-top:20px;
+	background-image:url(img/daohang.png);
+}
+#box{
+	width:1000px;
+	margin:0 auto;
+}
+.nav ul li{
+	
+	
+}
+.nav ul li a{
+		float:left;
+	position:relative;
+	width:125px;
+	height:35px;
+	
+	border-right:1px solid #333;
+	color:#FFF;
+	font-size:12px;
+	line-height:35px;
+	text-align:center;
+	cursor: pointer;
+	
+}
+.nav ul li a:hover{
+	background-image:url(img/daohang1.png);
+}
+.nav_box{
+	width:125px;
+	height:175px;
+	border:1 solid #999;
+	top:55px;
+	position:absolute;
+}
+.nav_box ul{
+}
+.nav_box ul li{
+	width:125px;
+	height:30px;
+	border-bottom:1px solid #999;
+	line-height:30px;
+	text-align:center;
+}
+.nav_box ul li:hover{
+	background-color: #666;
+	font-weight:bold;
+}
+.nav_box3{
+	width:125px;
+	height:175px;
+	border:1 solid #999;
+	top:0px;
+	left:125px;
+	position:absolute;
+	
+}
+.nav_box3 ul{
+}
+.nav_box3 ul li{
+	width:125px;
+	height:30px;
+	border-bottom:1px solid #999;
+	line-height:30px;
+	text-align:center;
+}
+.nav_box3 ul li:hover{
+	background-color: #666;
+	font-weight:bold;
+}
+.none{
+	display:none;
+}
+.block{
+	display:block
+}
+	
+	
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
